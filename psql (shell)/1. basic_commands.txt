@@ -6,8 +6,12 @@ USING PSQL SHELL :
 \l
     this command is also used to view all dbs
 
+SELECT datname from pg_database;
+    this command is also used to view all dbs list
+
 \! cls
     this command is used to clear the screen 
+
 
 
 
