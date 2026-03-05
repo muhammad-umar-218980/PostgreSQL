@@ -1,5 +1,18 @@
+USING PSQL SHELL :
+
 \list 
     this command is used to view all the databases
 
 \! cls
     this command is used to clear the screen 
+
+
+
+
+
+
+
+USING POWERSHELL/CMD
+
+first type "psql -U postgres" 
+then enter the password and youre ready to go 
