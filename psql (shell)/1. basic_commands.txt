@@ -12,6 +12,9 @@ SELECT datname from pg_database;
 \! cls
     this command is used to clear the screen 
 
+\c <db_name>
+    this command is used to change the database 
+    Example : \c employee_db (This will switch to employee_db)
 
 
 
