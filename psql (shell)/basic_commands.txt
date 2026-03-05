@@ -1,0 +1,5 @@
+\list 
+    this command is used to view all the databases
+
+\! cls
+    this command is used to clear the screen 
