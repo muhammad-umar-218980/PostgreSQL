@@ -3,6 +3,9 @@ USING PSQL SHELL :
 \list 
     this command is used to view all the databases
 
+\l
+    this command is also used to view all dbs
+
 \! cls
     this command is used to clear the screen 
 
